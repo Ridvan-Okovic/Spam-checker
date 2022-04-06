@@ -1,0 +1,4 @@
+Number of spam words in the string: 7
+There are 12 words in the string.
+The score is: 45 points,  Maybe Spam!
+The percentage is: 58.3333%,  Definitely Spam!

@@ -1,0 +1,4 @@
+total score is 15
+result using score is maybe spam
+relative spam is 50%
+relative spam is definitely spam
